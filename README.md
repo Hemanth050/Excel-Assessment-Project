@@ -22,6 +22,7 @@ This project contains solutions to a structured Excel-based assessment with 5 ta
 - **Solution**: View → Freeze Panes → Freeze Top Row.
 
 ### **Task 3: Sum of Values > 20**
+![image url](https://github.com/Hemanth050/Excel-Assessment-Project/blob/75e393e43e54fcce54b2c9f7a2460bdb703e111a/Task%205.png)
 - **Objective**: Compute the **sum of all values greater than 20** in column **H ('car2')** of the *Dataset* tab.
 - **Formula Used**:
   ```excel
